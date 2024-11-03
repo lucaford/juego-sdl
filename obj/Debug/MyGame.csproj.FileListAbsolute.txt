@@ -1,0 +1,103 @@
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\arial.ttf
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\asteroid.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\arial.ttf
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\arial.ttf
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\bin\Debug\assets\fondo.png
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\bin\Debug\MyGame.exe.config
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\bin\Debug\MyGame.exe
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\bin\Debug\MyGame.pdb
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\obj\Debug\MyGame.exe
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\obj\Debug\MyGame.pdb
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\bin\Debug\assets\character-left.png
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\bin\Debug\assets\fonts\BebasNeue-Regular.ttf
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\bin\Debug\assets\enemy-left.PNG
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\bin\Debug\assets\sounds\coin.wav
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\bin\Debug\assets\sounds\explosion.wav
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\bin\Debug\assets\sounds\hurt.wav
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\bin\Debug\assets\heart-red.png
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\bin\Debug\assets\bitcoin.png
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\bin\Debug\assets\bitcoin-hud.png
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\bin\Debug\assets\enemy-right.PNG
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\bin\Debug\assets\game-menu.png
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\bin\Debug\assets\loser-menu.png
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\bin\Debug\assets\player-room.png
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\bin\Debug\assets\winner-menu.png
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\bin\Debug\assets\music\win-bg-music.wav
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\bin\Debug\assets\music\lose-bg-music.wav
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\bin\Debug\assets\music\menu-bg-music.wav
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\bin\Debug\assets\music\gameplay-bg-music.wav
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\bin\Debug\assets\character-right.png
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\bin\Debug\assets\bitcoin-hud.png
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\bin\Debug\assets\bitcoin.png
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\bin\Debug\assets\character-right.png
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\bin\Debug\assets\heart-red.png
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\bin\Debug\assets\music\win-bg-music.wav
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\bin\Debug\assets\music\lose-bg-music.wav
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\bin\Debug\assets\music\menu-bg-music.wav
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\bin\Debug\assets\music\gameplay-bg-music.wav
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\bin\Debug\assets\character-left.png
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\bin\Debug\assets\enemy-left.PNG
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\bin\Debug\assets\enemy-right.PNG
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\bin\Debug\assets\fondo.png
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\bin\Debug\assets\game-menu.png
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\bin\Debug\assets\loser-menu.png
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\bin\Debug\assets\player-room.png
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\bin\Debug\assets\sounds\coin.wav
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\bin\Debug\assets\sounds\explosion.wav
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\bin\Debug\assets\sounds\hurt.wav
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\bin\Debug\assets\winner-menu.png
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\bin\Debug\assets\fonts\BebasNeue-Regular.ttf
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\bin\Debug\MyGame.exe.config
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\bin\Debug\MyGame.exe
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\bin\Debug\MyGame.pdb
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\obj\Debug\MyGame.exe
+C:\Users\usuario\Documents\Desarrollo Juegos\Juegos\AMO\juego-sdl\obj\Debug\MyGame.pdb
